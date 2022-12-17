@@ -5,7 +5,8 @@
 }
 
 body {
-    background: #607d8b;
+    /* background-image: url("../img/banner.jpg"); */
+    background-color: #607d8b;
     font-family: "Poppins";
 }
 
